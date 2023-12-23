@@ -2,7 +2,8 @@
 - 👀 I’m interested in Full stack
 - 🌱 I’m currently learning Computer science and engineering
 - 💞️ I’m looking to collaborate on open sorce project
-- ![Uploading Funny Movies.gif…]()
+-  <IMG SRC="![Funny Movies](https://github.com/priyanshucodes73/priyanshucodes73/assets/149898239/79965056-470b-45d5-9af1-d5fc3f3bc0a0)
+ gif">.
 
 
 <!---
