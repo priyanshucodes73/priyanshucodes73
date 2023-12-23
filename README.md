@@ -2,7 +2,8 @@
 - 👀 I’m interested in Full stack
 - 🌱 I’m currently learning Computer science and engineering
 - 💞️ I’m looking to collaborate on open sorce project
-- https://pin.it/4QLeR7P
+- ![Uploading Funny Movies.gif…]()
+
 
 <!---
 priyanshucodes73/priyanshucodes73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
